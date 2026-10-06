@@ -1,6 +1,35 @@
-body {
-    color: darkblue;
-    font-size: 4.5rem;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular',Geneva, Verdana, sans-serif;
-    font-variant: small-caps;
+h1 {
+    color:rgb(10, 10, 10);
+}
+
+img {
+    float: right;
+    margin-left: 5px;
+    width:200px;
+    height: auto;
+}
+Body {
+        background-image:url(../oefenen/images/groningen.jpg) ;
+        background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    }
+div {
+    background-color: rgb(243, 246, 248);
+    width: fit-content;
+    padding: 10px;
+    border: 3px solid rgb(7, 7, 7);
+}
+.belangrijk{
+    color: green;
+}
+.belangrijk{
+    color: purple;
+}
+li{
+    color: red; 
+    font-size: 20px;
+}
+li{
+    color: blue  ;
 }

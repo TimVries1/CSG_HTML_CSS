@@ -13,12 +13,12 @@ body {
 #hoofdpagina {
     display: flex;
     width: 65%;
-    border: 1px dashed black;
+    border: 1px dashed rgb(53, 3, 3);
 }
 
 #links {
     width: 70%;
-    background-color: lightsteelblue;
+    background-color: rgb(6, 248, 248);
     padding: 5% 2% 0% 2%;
 }
 
@@ -27,8 +27,8 @@ body {
 }
 
 img {
-    width: 50%;
-    margin-left: 25%;
+    width: 120%;
+    margin-left: 0%;
 }
 
 #footer {
